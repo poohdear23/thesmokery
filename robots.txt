@@ -1,0 +1,39 @@
+# robots.txt — The Smokery / BEEFCON landing page
+# เปิดทางให้ทั้ง search engine และ AI crawler อ่านได้ (AEO/GEO)
+
+User-agent: *
+Allow: /
+
+# --- Search ---
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+
+# --- AI / answer-engine crawlers ---
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: cohere-ai
+Allow: /
+User-agent: Amazonbot
+Allow: /
+
+Sitemap: https://poohdear23.github.io/thesmokery/sitemap.xml

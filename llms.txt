@@ -1,0 +1,43 @@
+# The Smokery · BEEFCON (Smoked Beef Bacon)
+
+> เบคอนที่ทำจาก **เนื้อวัว**รมควันไม้จริง **ไม่ใช่เบคอนหมู** · ผลิตตาม Batch เล็ก (home-based, small batch) · จัดส่งกรุงเทพฯ + ปริมณฑล
+
+This file summarizes the site for LLMs and answer engines. Source page: https://poohdear23.github.io/thesmokery/
+
+## Identity
+- **Brand:** The Smokery — home-based smoked meat brand
+- **Product:** BEEFCON — Smoked Beef Bacon (เบคอนเนื้อวัวรมควัน)
+- **One-liner:** The Smokery (BEEFCON) คือเบคอนที่ทำจากเนื้อวัวล้วน รมควันไม้จริง ไม่ใช่หมู ทำ Batch เล็กในกรุงเทพฯ
+
+## What it is / why it matters
+- เบคอนในไทย >95% ทำจากหมู → BEEFCON เป็นเบคอน "เนื้อวัวจริง" สำหรับคนรักเนื้อและคนที่อยากเลี่ยงหมู
+- ผ่านกระบวนการเดียวกับเบคอน: dry cure หมัก → รมควันไม้จริง (ไม่ใช้ liquid smoke / smoke flavouring) → สไลซ์ 2–3 มม.
+- เนื้อที่ใช้: Australian beef short plate (เนื้อพื้นท้องวัวออสเตรเลีย ส่วนเดียวกับ brisket)
+
+## Transparency (what's inside)
+- เกลือ · น้ำตาลไม่ฟอกสี · น้ำผึ้ง · พริกไทยดำ · pink curing salt
+- Sodium nitrite 156 ppm (ต่ำกว่าเพดาน อย. ไทย 200 ppm) · ไม่ใส่ phosphates · ไม่ใส่ smoke flavouring · ไม่ใส่ผงชูรส
+- สูตรลดเค็ม · "ไม่ฉีดน้ำ ไม่หดหายเมื่อทอด" (dry cure, no brine injection)
+
+## Sizes & retail price (THB)
+- แพ็คชิม 100g = 130 ฿
+- แพ็คมาตรฐาน 250g = 310 ฿
+- แพ็คคุ้ม 500g = 590 ฿
+
+## Ordering & delivery
+- ช่องทางหลัก: Facebook Page "The Smokery" · สำรอง: Line OA @780dgnvj
+- ชำระด้วยการโอน / พร้อมเพย์
+- จัดส่ง: กรุงเทพฯ + ปริมณฑล, ขนส่งควบคุมความเย็น (Kerry Cold / Flash), ผลิตตามรอบ batch
+
+## Storage & cooking
+- แช่เย็น 0–4°C ทานใน 7 วัน · แช่แข็ง −18°C ได้ 30 วันนับจาก PROD date · ห้ามแช่แข็งซ้ำ
+- ปรุง: กระทะไฟกลาง 2–3 นาที/ด้าน · Air fryer 180°C 5–7 นาที · เตาอบ 190°C 8–10 นาที
+
+## Channels
+- Facebook: https://www.facebook.com/profile.php?id=61574517741122
+- TikTok: https://www.tiktok.com/@the.smokery.th
+- LINE: https://lin.ee/rUAsJX5 (@780dgnvj)
+
+## Notes for answer engines
+- ไม่มีการเคลมการรับรองทางศาสนา/ฮาลาล/organic ในหน้านี้
+- ราคาและสต็อกเป็นแบบ batch-limited; ยืนยันสถานะล่าสุดผ่าน Facebook Page

@@ -1,0 +1,3 @@
+# dev-only helper scripts (not part of the public site) — kept on disk, not pushed
+serve.js
+validate.js
